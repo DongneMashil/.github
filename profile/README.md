@@ -22,5 +22,5 @@
 <a href="https://github.com/sunny2you">
 <img src="https://github.com/sunny2you.png" width="100" height="100"/>
 
-<img src="../images/img-3jo-jjangjjangman.png">  
+<img src="https://github.com/DongneMashil/.github/blob/main/images/img-3jo-jjangjjangman.png?raw=true">  
 
