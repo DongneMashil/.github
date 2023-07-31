@@ -19,7 +19,8 @@
 <a href="https://github.com/Kang-Gyeongwon">
 <img src="https://github.com/Kang-Gyeongwon.png" width="100" height="100"/>
 </a>
-<img src="#" width="100" height="100"/>
+<a href="https://github.com/sunny2you">
+<img src="https://github.com/sunny2you.png" width="100" height="100"/>
 
 <img src="../images/img-3jo-jjangjjangman.png">  
 
