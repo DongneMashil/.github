@@ -21,5 +21,5 @@
 </a>
 <img src="#" width="100" height="100"/>
 
-<img src="./images/img-3jo-jjangjjangman.png">  
+<img src="../images/img-3jo-jjangjjangman.png">  
 
