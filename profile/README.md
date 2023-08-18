@@ -22,7 +22,7 @@
 </table>
 
 <img src="https://github.com/DongneMashil/.github/blob/main/images/img-3jo-jjangjjangman.png?raw=true">
-<br><br>
+
 ## 💡 주요 기능 및 서비스
 <details>
 <summary>나만의 산책로 소개하기</summary>
