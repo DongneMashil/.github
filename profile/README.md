@@ -77,7 +77,7 @@
 [동네마실 Swagger에서 확인해보기](https://fate-starfish-b23.notion.site/adfd01d3d12a465095c39b7e1a8f796a?v=c4c7b5d149e846bdb61357331bf241ed](https://testggyeon.shop/swagger-ui/index.html#/)https://testggyeon.shop/swagger-ui/index.html#/)
 
 ## 📏 ERD
-![image](https://github.com/DongneMashil/.github/assets/39889583/61c832a5-b278-4d3f-8dfa-736add563e3a)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/128367271/260989271-0423f233-fb3d-4f85-b6c2-a4ebea4d9912.png)
 
 ## 🗣️ User Feedback
 유저 테스트 진행 예정입니다.
