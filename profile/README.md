@@ -74,7 +74,7 @@
 |Route53|전세계 분산 위치에 있는 DNS 서버로 구성 되어 있어 서비스 가용성 신뢰성이 뛰어나며, 트래픽이 증가하더라도 자동으로 스케일링 되므로 운영 오버헤드 성능을 유지 가능. 또한 보안적으로도 다양한 보안기능을 제공하여 안전한 서비스 운용 가능.|
 
 ## 📊API 명세
-[동네마실 Swagger에서 확인해보기](https://testggyeon.shop/swagger-ui/index.html#/)https://testggyeon.shop/swagger-ui/index.html#/](https://dongnemasila.shop/swagger-ui/index.html#/)
+[동네마실 Swagger에서 확인해보기](https://testggyeon.shop/swagger-ui/index.html#/)
 
 
 ## 📏 ERD
