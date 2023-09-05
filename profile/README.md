@@ -217,7 +217,7 @@ f)
 
 <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Sping Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-569A31?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-## 📐 서비스 아키텍처
+## ⚙️ 서비스 아키텍처
 
 ![architecture](https://github.com/DongneMashil/.github/assets/127714273/9867ddff-9b11-4788-90ee-286329072d40)
 
@@ -256,7 +256,7 @@ f)
 
 [동네마실 Swagger에서 확인해보기](https://dongnemasila.shop/swagger-ui/index.html#/)
 
-## 📏 ERD
+## 📐 ERD
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/128367271/260989271-0423f233-fb3d-4f85-b6c2-a4ebea4d9912.png)
 
