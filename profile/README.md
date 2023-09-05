@@ -78,6 +78,24 @@ f)
 </details>
 
 <details>
+<summary>메인페이지 산책로를 둘러보기</summary>
+
+- 유저들의 게시물을 필터링, 정렬하여 볼 수 있습니다.
+- 무한스크롤을 구현하였습니다.
+
+[모바일]
+
+![메인페이지1](https://github.com/DongneMashil/.github/assets/127714273/c452ed91-add5-49c7-9d4f-29b06ab7bff4)
+8734fc)
+
+[PC] Masonry Layout 구현 (Naver egjs-grid)
+
+![메인페이지2](https://github.com/DongneMashil/.github/assets/127714273/e08a7c61-8ca0-4799-9c16-8790fbb46e36)
+
+</details>
+
+<details>
+<details>
 <summary>나만의 산책로 소개하기</summary>
 
 - 내가 산책한 위치와 멋진 사진, 동영상을 공유할 수 있어요.
@@ -128,24 +146,6 @@ f)
 
 </details>
 
-<details>
-<summary>메인페이지 기능</summary>
-
-- 유저들의 게시물을 필터링, 정렬하여 볼 수 있습니다.
-- 무한스크롤을 구현하였습니다.
-
-[모바일]
-
-![메인페이지1](https://github.com/DongneMashil/.github/assets/127714273/c452ed91-add5-49c7-9d4f-29b06ab7bff4)
-8734fc)
-
-[PC] Masonry Layout 구현 (Naver egjs-grid)
-
-![메인페이지2](https://github.com/DongneMashil/.github/assets/127714273/e08a7c61-8ca0-4799-9c16-8790fbb46e36)
-
-</details>
-
-<details>
 <summary>산책로 자세히 보기</summary>
 
 ![상세1](https://github.com/DongneMashil/.github/assets/127714273/18245a37-8aca-4888-9d61-b132cc653176)
