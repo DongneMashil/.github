@@ -20,7 +20,7 @@ https://dongnemashil.me
       <td align="center"><a href="https://github.com/makepin2r"><img src="https://github.com/makepin2r.png" width="100px;" alt="FE L 탁승현"/><br /><sub><b>FE L 탁승현</b></sub></a></td>
       <td align="center"><a href="https://github.com/taehyunkim3"><img src="https://github.com/taehyunkim3.png" width="100px;" alt="FE 김태현"/><br /><sub><b>FE 김태현</b></sub></a></td>
       <td align="center"><a href="https://github.com/soolovepat"><img src="https://github.com/soolovepat.png" width="100px;" alt="FE 이수진"/><br /><sub><b>FE 이수진</b></sub></a></td>
-      <td align="center"><a href="https://github.com/Rose-Rosie-Rose"><img src="https://github.com/Kang-Gyeongwon.png" width="100px;" alt="FE 강경원"/><br /><sub><b>FE 강경원</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Rose-Rosie-Rose"><img src="https://github.com/Rose-Rosie-Rose.png" width="100px;" alt="FE 강경원"/><br /><sub><b>FE 강경원</b></sub></a></td>
     <tr/>
        <td align="center"><a href="https://github.com/codegyeon"><img src="https://github.com/codegyeon.png" width="100px;" alt="BE VL 정기현"/><br /><sub><b>BE VL 정기현</b></sub></a></td>
        <td align="center"><a href="https://github.com/junyoung93"><img src="https://github.com/junyoung93.png" width="100px;" alt="BE 박준영"/><br /><sub><b>BE 박준영</b></sub></a></td>
