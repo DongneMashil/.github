@@ -1,4 +1,4 @@
-<img src="https://github.com/DongneMashil/.github/blob/main/images/cover.jpg" >
+![cover](https://github.com/DongneMashil/.github/assets/127714273/c70b3a58-420a-4a3d-9125-81286952cdbf)
 
 
 # 🏃🏻‍♂️ 우리 동네의 새로운 발견, 동네마실
@@ -35,7 +35,7 @@
   <details>
 <summary>검색으로 걷고 싶은 장소 구경하기 (태그 필터링)</summary>
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC1.jpg" width="40%">
+![태그필터링1](https://github.com/DongneMashil/.github/assets/127714273/f83c2303-3b2e-4247-a057-aecc2e958f5e)
 
 
 태그 선택을 통해 유저의 관심사에 맞는 피드를 필터링할 수 있습니다.
@@ -44,13 +44,13 @@
 
 - 상단의 태그를 선택하면 게시글 필터링이 되고, 해제하면 다시 전체 게시물이 보여집니다.
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC2.png" width="40%">
+![태그필터링2](https://github.com/DongneMashil/.github/assets/127714273/8f9dbe3a-5d78-4f97-acf7-1cab45ef8043)
 
 
 - 기본으로 ‘인기순’ 정렬되어 있고 ‘최신순’ 정렬도 가능합니다.
     - 태그가 선택된 상태에서도 정렬이 가능합니다.
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%E1%84%91%E1%85%B5%E1%86%AF%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC3.png" width="40%">
+![태그필터링3](https://github.com/DongneMashil/.github/assets/127714273/c688982b-2045-4063-9861-a46bc4249be0)
 
 </details>
 
@@ -59,14 +59,15 @@
 <summary>검색으로 걷고 싶은 장소 구경하기 (키워드 검색)</summary>
 주소의 키워드를 입력해 지역별 산책로 리뷰를 볼 수 있습니다.
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A81.jpg" width="40%">
+![검색1](https://github.com/DongneMashil/.github/assets/127714273/76757475-8323-4a8f-8538-2f4e014607d4)
 
 
 
 - 검색 결과 데이터의 페이지네이션은 메인 페이지와 마찬가지로 무한 스크롤로 구현하였습니다.
 - 검색된 피드는 지도보기 기능을 통해 위치를 확인할 수 있고, 각각의 상세페이지로 이동할 수 있습니다.
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A82.jpg" width="40%">
+![검색2](https://github.com/DongneMashil/.github/assets/127714273/a46f091e-c196-48c8-8cb4-2d71a1776d5f)
+
 
     
 </details>
@@ -77,7 +78,8 @@
 
 위치 정보를 활용하여, 유저가 있는 위치의 일정 반경 내 게시글들을 검색하여 지도로 보여주는 기능입니다.
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.jpg" width="40%">
+![반경검색](https://github.com/DongneMashil/.github/assets/127714273/2eea74e1-8921-4a9e-884b-74894d3397c8)
+f)
 
 - 최초 유저의 현 위치를 기준으로 실행됩니다.
 - 귀여운 동동이 마커를 드래그하여 원하는 곳의 반경 내 산책로를 추가 검색할 수 있습니다.
@@ -90,31 +92,34 @@
 - 내가 산책한 위치와 멋진 사진, 동영상을 공유할 수 있어요.
   자유롭게 태그를 선택해 산책의 분위기까지 표현해보세요!
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B51.jpg" width="40%">
+![글쓰기1](https://github.com/DongneMashil/.github/assets/127714273/d5b7df81-57cd-4b41-8ec2-c67c0a5710f6)
+
 
 
 - 글쓰기(지도)
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B52.png" width="40%">
+<img width="774" alt="글쓰기2" src="https://github.com/DongneMashil/.github/assets/127714273/b95ec164-4479-4693-bedb-3e96d6229106">
+
     
      - 페이지에 처음 들어갈때 현위치를 가져오고 유저가 원하는데로 핀을 움직여서 원하는 주소값을 가져올 수 있습니다.
     
  - 글쓰기(주소검색)
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B53.png" width="40%">
-      
+<img width="825" alt="글쓰기3" src="https://github.com/DongneMashil/.github/assets/127714273/bd861b67-e006-4263-841d-0cc56d4ac486">
+
     - 카카오 로컬 API를 이용하여 유저가 키워드나 주소를 이용해서 검색해서 해당 주소를 가져오는 기능을 구현하였습니다.
     
 - 글쓰기(기본)
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B54.png" width="40%">
+<img width="586" alt="글쓰기4" src="https://github.com/DongneMashil/.github/assets/127714273/cf1dabcc-d81d-4fa7-808c-3c6439edd402">
     
     - 태그를 선택하고, 제목, 내용을 입력하였습니다.
     - 사진및 동영상을 선택하고 사진일 경우 대표이미지 설정이 가능합니다.
     
 - 글쓰기(수정)
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B55.png" width="40%">
+<img width="586" alt="글쓰기5" src="https://github.com/DongneMashil/.github/assets/127714273/7f04d41b-bd40-4ef9-b4b3-7f09ca2951bb">
+
     
     - 상세페이지에서 수정하기 버튼을 누르면 수정하는 페이지로 이동하며, 글쓰기의 모든 부분을 수정할 수 있습니다.
     
@@ -124,12 +129,14 @@
 <details>
 <summary>내 정보 관리하기</summary>
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B51.jpg" width="40%">
+![마이1](https://github.com/DongneMashil/.github/assets/127714273/b8d0a4ff-64e9-4de8-b72b-08ec79722482)
 
 - 내가 쓴 게시글, 댓글, 좋아요한 게시글을 조회할 수 있습니다.
 - 내 정보 수정 / 프로필 사진 수정이 가능합니다.
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B52.png" width="40%">
+![마이2](https://github.com/DongneMashil/.github/assets/127714273/4434d89c-f59b-481d-ac9c-7c5ff68734fc)
+2)
+
     
     - 프로필 사진 크롭 / 리사이징
         - 프로필 사진을 1/1 고정비율로 잘라서 업로드하는 기능
@@ -146,12 +153,13 @@
 
 [모바일]
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B51.png" width="40%">
+![메인페이지1](https://github.com/DongneMashil/.github/assets/127714273/c452ed91-add5-49c7-9d4f-29b06ab7bff4)
+8734fc)
 
 
 [PC] Masonry Layout 구현 (Naver egjs-grid)
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B52.png" width="40%">
+![메인페이지2](https://github.com/DongneMashil/.github/assets/127714273/e08a7c61-8ca0-4799-9c16-8790fbb46e36)
 
 
 </details>
@@ -159,7 +167,8 @@
 <details>
 <summary>산책로 자세히 보기</summary>
 
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A61.jpg" width="40%">
+![상세1](https://github.com/DongneMashil/.github/assets/127714273/18245a37-8aca-4888-9d61-b132cc653176)
+
 
 
 게시글의 내용을 확인하는 페이지입니다.
@@ -168,14 +177,15 @@
     
     현 위치와 비교해서 게시글의 위치를 보여주는 기능입니다. (km단위로 표기)
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A62.jpg" width="40%">
+![상세2](https://github.com/DongneMashil/.github/assets/127714273/9f24d7b1-95af-4177-8713-5dfef3c67a8a)
 
     
 - 사진 원본 사이즈로 보여주기
     
     사진을 누르면 원본 크기로 보여주고, 다운로드가 가능합니다.
   
-    <img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A63.jpg" width="40%">
+![상세3](https://github.com/DongneMashil/.github/assets/127714273/1dbd7575-4aed-4120-8f08-896e5a022abe)
+
 
 
 </details>
@@ -195,12 +205,8 @@
     
     댓글 입력시 해당 지점까지 자동 스크롤 기능, 무한스크롤, 수정/삭제 기능이 있습니다.
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A64.jpg" width="40%">
+![상세4](https://github.com/DongneMashil/.github/assets/127714273/1a61f486-af18-464f-8eb9-0b0ba3cbb21d)
 
-    
-    댓글이 없는 경우 아래외 같은 귀여운 동동이가 나옵니다.
-    
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A65.jpg" width="40%">
 
 </details>
 
@@ -212,7 +218,7 @@
     
     유저 닉네임을 클릭하면 해당 유저의 게시글을 볼수 있습니다.
     
-<img src="https://github.com/DongneMashil/.github/blob/main/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A66.jpg" width="40%">
+![상세6](https://github.com/DongneMashil/.github/assets/127714273/b9f8e492-1684-4086-ac62-7363f12af1e3)
 
     
     - 무한스크롤로 구현되어 있습니다.
