@@ -2,7 +2,7 @@
 
 # 🏃🏻‍♂️ 우리 동네의 새로운 발견, 동네마실
 
-<a src="https://dongnemashil.me"> 서비스 바로가기! </a>
+https://dongnemashil.me
 
 나만의 숨은 산책로를 공유할 수 있는 위치 기반 커뮤니티 서비스입니다.
 
