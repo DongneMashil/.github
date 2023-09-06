@@ -258,7 +258,7 @@ f)
 
 ## 📐 ERD
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/128367271/260989271-0423f233-fb3d-4f85-b6c2-a4ebea4d9912.png)
+![image](https://github.com/DongneMashil/.github/assets/128367271/4fad8663-81bc-4f7c-a2b7-00936d3c529d)
 
 ## 🗣️ User Feedback
 
