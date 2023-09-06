@@ -219,7 +219,7 @@ f)
 
 ## ⚙️ 서비스 아키텍처
 
-![architecture](https://github.com/DongneMashil/.github/assets/127714273/9867ddff-9b11-4788-90ee-286329072d40)
+![architecture](https://github.com/DongneMashil/dongnemashil-fe/assets/86649284/14746f92-409d-4dd4-b75d-426cc18a6288)
 
 ## 💭 주요 기술적 의사결정
 
